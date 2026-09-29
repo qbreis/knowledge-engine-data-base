@@ -3,21 +3,53 @@
     {
       "id": 1,
       "texto": "Es hombre.",
-      "si": ["@1"],
-      "no": ["@2"],
-      "noSe": ["@1"]
+      "si": [
+        "@1"
+      ],
+      "no": [
+        "@2",
+        "#2"
+      ],
+      "noSe": [
+        "@1"
+      ]
+    },
+    {
+      "id": 2,
+      "texto": "YY",
+      "si": [
+        "@2"
+      ],
+      "no": [
+        "@3"
+      ],
+      "noSe": [
+        "@2"
+      ]
     }
   ],
   "respuestas": [
     {
       "id": 1,
       "nombre": "Jesús",
-      "origen": [1]
+      "origen": [
+        1
+      ]
     },
     {
       "id": 2,
       "nombre": "María",
-      "origen": [-1]
+      "origen": [
+        -1,
+        2
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "ZZ",
+      "origen": [
+        -2
+      ]
     }
   ]
 }
