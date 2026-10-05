@@ -1,5 +1,11 @@
 {
   "name": "Personajes de los Simpson",
+  "version" : [
+    {
+      "number": 1.0,
+      "date": "2026-10-01"
+    }
+  ],
   "preguntas": [
     {
       "id": 1,
