@@ -9,7 +9,7 @@
   "preguntas": [
     {
       "id": 1,
-      "texto": "Es hombre.",
+      "texto": "Es de género masculino.",
       "si": [
         1,
         -2
