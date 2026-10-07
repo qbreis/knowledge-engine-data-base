@@ -1,8 +1,8 @@
 {
   "name": "Personajes de los Simpson",
-  "version" : [
+  "version": [
     {
-      "number": 1.0,
+      "number": 1,
       "date": "2026-10-01"
     }
   ],
@@ -32,7 +32,8 @@
         1
       ],
       "noSe": [
-        1
+        1,
+        -3
       ]
     },
     {
@@ -87,11 +88,7 @@
       "origen": [
         2
       ]
-    }
-
-
-
-    ,
+    },
     {
       "id": 4,
       "nombre": "Lisa Simpson",
@@ -116,9 +113,6 @@
         
       ]
     }
-
-
-
   ],
   "logs": [
     {
