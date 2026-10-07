@@ -2,7 +2,7 @@
   "name": "Personajes de los Simpson",
   "version": [
     {
-      "number": 1,
+      "number": 1.0,
       "date": "2026-10-01"
     }
   ],
@@ -29,11 +29,11 @@
         3
       ],
       "no": [
-        1
-      ],
-      "noSe": [
         1,
         -3
+      ],
+      "noSe": [
+        1
       ]
     },
     {
@@ -94,7 +94,7 @@
       "nombre": "Lisa Simpson",
       "descripcion": "Hija mediana, niña prodigio, vegetariana, ecologista y virtuosa del saxofón.",
       "origen": [
-        2
+        -1, 4
       ]
     },
     {
@@ -102,7 +102,7 @@
       "nombre": "Maggie Simpson",
       "descripcion": "La bebé de la familia, que rara vez habla y siempre lleva su chupete rojo.",
       "origen": [
-        2
+        
       ]
     },
     {
