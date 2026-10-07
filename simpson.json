@@ -108,7 +108,7 @@
       "id": 6,
       "nombre": "Ned Flanders",
       "descripcion": "Vecino perspicaz, devoto cristiano y extremadamente optimista, constante objeto de la frustración de Homer.",
-      "origen": []
+      "origen": [-2, 3]
     }
   ]
 }
