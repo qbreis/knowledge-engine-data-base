@@ -111,18 +111,125 @@
       "origen": []
     }
   ],
-  "logs": [
-    {
-      "fecha": "2026-10-01T13:13:15.940Z",
-      "preguntaId": 1,
-      "preguntaTexto": "Es hombre.",
-      "opcion": "si"
-    },
+  "backups": [
     {
       "fecha": "2026-10-01T13:39:51.251Z",
-      "preguntaId": 1,
-      "preguntaTexto": "Es hombre.",
-      "opcion": "si"
+      "knowledge": [
+        {
+          "name": "Personajes de los Simpson",
+          "version": [
+            {
+              "number": 1,
+              "date": "2026-10-01"
+            }
+          ],
+          "preguntas": [
+            {
+              "id": 1,
+              "texto": "Es de género masculino.",
+              "si": [
+                1,
+                -2
+              ],
+              "no": [
+                2,
+                -4
+              ],
+              "noSe": [
+                1
+              ]
+            },
+            {
+              "id": 2,
+              "texto": "Va en monopatín.",
+              "si": [
+                3
+              ],
+              "no": [
+                1,
+                -3
+              ],
+              "noSe": [
+                1
+              ]
+            },
+            {
+              "id": 3,
+              "texto": "Es devoto cristiano.",
+              "si": [
+                6
+              ],
+              "no": [
+                1
+              ],
+              "noSe": [
+                1
+              ]
+            },
+            {
+              "id": 4,
+              "texto": "Es una virtuosa del saxofón.",
+              "si": [
+                4
+              ],
+              "no": [
+                2
+              ],
+              "noSe": [
+                2
+              ]
+            }
+          ],
+          "respuestas": [
+            {
+              "id": 1,
+              "nombre": "Homer Simpson",
+              "descripcion": "Padre de la familia, aficionado a la cerveza Duff y a los donuts, conocido por su frase «¡D'oh!».",
+              "origen": [
+                1,
+                -2
+              ]
+            },
+            {
+              "id": 2,
+              "nombre": "Marge Simpson",
+              "descripcion": "Matriarca de la familia, reconocida por su alto peinado azul y por ser la voz de la razón en el hogar.",
+              "origen": [
+                -1
+              ]
+            },
+            {
+              "id": 3,
+              "nombre": "Bart Simpson",
+              "descripcion": "Hijo mayor, rebelde y bromista, célebre por sus travesuras en monopatín y sus llamadas en tono de burla a la taberna de Moe.",
+              "origen": [
+                2
+              ]
+            },
+            {
+              "id": 4,
+              "nombre": "Lisa Simpson",
+              "descripcion": "Hija mediana, niña prodigio, vegetariana, ecologista y virtuosa del saxofón.",
+              "origen": [
+                -1,
+                4
+              ]
+            },
+            {
+              "id": 5,
+              "nombre": "Maggie Simpson",
+              "descripcion": "La bebé de la familia, que rara vez habla y siempre lleva su chupete rojo.",
+              "origen": []
+            },
+            {
+              "id": 6,
+              "nombre": "Ned Flanders",
+              "descripcion": "Vecino perspicaz, devoto cristiano y extremadamente optimista, constante objeto de la frustración de Homer.",
+              "origen": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }
