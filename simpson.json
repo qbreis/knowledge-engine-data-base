@@ -61,6 +61,19 @@
       "noSe": [
         2
       ]
+    },
+    {
+      "id": 5,
+      "texto": "Es un empresario multimillonario.",
+      "si": [
+        7
+      ],
+      "no": [
+        1
+      ],
+      "noSe": [
+        1
+      ]
     }
   ],
   "respuestas": [
@@ -70,7 +83,8 @@
       "descripcion": "Padre de la familia, aficionado a la cerveza Duff y a los donuts, conocido por su frase «¡D'oh!».",
       "origen": [
         1,
-        -2
+        -2,
+        -5
       ]
     },
     {
@@ -111,6 +125,17 @@
       "origen": [
         -2,
         3
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Sr. Burns (Charles Montgomery Burns)",
+      "descripcion": "Anciano multimillonario, avaricioso y dueño de la central nuclear de Springfield.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        5
       ]
     }
   ]
