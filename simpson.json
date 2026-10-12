@@ -140,10 +140,24 @@
         1
       ],
       "no": [
-        11
+        11,
+        -11
       ],
       "noSe": [
         11
+      ]
+    },
+    {
+      "id": 11,
+      "texto": "Tiene los ojos especialmente sensibles.",
+      "si": [
+        11
+      ],
+      "no": [
+        12
+      ],
+      "noSe": [
+        12
       ]
     }
   ],
@@ -264,7 +278,23 @@
         -5,
         -8,
         -9,
-        -10
+        -10,
+        11
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "Carl Carlson",
+      "descripcion": "Compañero de trabajo de Homer en la central nuclear y mejor amigo de Lenny, de personalidad observadora, pragmática y con un máster en ingeniería nuclear.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        -8,
+        -9,
+        -10,
+        -11
       ]
     }
   ]
