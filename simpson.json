@@ -47,7 +47,8 @@
         -5
       ],
       "noSe": [
-        1
+        1,
+        -7
       ]
     },
     {
@@ -89,6 +90,19 @@
       "noSe": [
         2
       ]
+    },
+    {
+      "id": 7,
+      "texto": "Su verdadera religión es el Sr. Burns.",
+      "si": [
+        8
+      ],
+      "no": [
+        1
+      ],
+      "noSe": [
+        1
+      ]
     }
   ],
   "respuestas": [
@@ -99,7 +113,8 @@
       "origen": [
         1,
         -2,
-        -5
+        -5,
+        -7
       ]
     },
     {
@@ -156,6 +171,16 @@
         -2,
         -3,
         5
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Waylon Smithers",
+      "descripcion": "Fiel asistente personal del Sr. Burns, eternamente leal y enamorado en secreto de su jefe.",
+      "origen": [
+        1,
+        -2,
+        7
       ]
     }
   ]
