@@ -72,7 +72,8 @@
         7
       ],
       "no": [
-        1
+        1,
+        -8
       ],
       "noSe": [
         1
@@ -103,6 +104,19 @@
       "noSe": [
         1
       ]
+    },
+    {
+      "id": 8,
+      "texto": "Es encantador de serpientes.",
+      "si": [
+        9
+      ],
+      "no": [
+        1
+      ],
+      "noSe": [
+        9
+      ]
     }
   ],
   "respuestas": [
@@ -114,7 +128,8 @@
         1,
         -2,
         -5,
-        -7
+        -7,
+        -8
       ]
     },
     {
@@ -181,6 +196,18 @@
         1,
         -2,
         7
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Moe Szyslak",
+      "descripcion": "Propietario de la taberna local, de carácter arisco y cascarrabias pero con un trasfondo solitario.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        8
       ]
     }
   ]
