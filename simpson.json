@@ -57,7 +57,8 @@
         4
       ],
       "no": [
-        2
+        2,
+        -6
       ],
       "noSe": [
         2
@@ -74,6 +75,19 @@
       ],
       "noSe": [
         1
+      ]
+    },
+    {
+      "id": 6,
+      "texto": "Usa chupete.",
+      "si": [
+        5
+      ],
+      "no": [
+        2
+      ],
+      "noSe": [
+        2
       ]
     }
   ],
@@ -93,7 +107,8 @@
       "nombre": "Marge Simpson",
       "descripcion": "Matriarca de la familia, reconocida por su alto peinado azul y por ser la voz de la razón en el hogar.",
       "origen": [
-        -1
+        -1,
+        -6
       ]
     },
     {
@@ -117,7 +132,11 @@
       "id": 5,
       "nombre": "Maggie Simpson",
       "descripcion": "La bebé de la familia, que rara vez habla y siempre lleva su chupete rojo.",
-      "origen": []
+      "origen": [
+        -1,
+        -4,
+        6
+      ]
     },
     {
       "id": 6,
