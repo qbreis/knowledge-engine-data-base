@@ -61,7 +61,8 @@
         6
       ],
       "noSe": [
-        6
+        6,
+        -15
       ]
     },
     {
@@ -201,6 +202,19 @@
       "noSe": [
         15
       ]
+    },
+    {
+      "id": 15,
+      "texto": "Es policía.",
+      "si": [
+        16
+      ],
+      "no": [
+        6
+      ],
+      "noSe": [
+        16
+      ]
     }
   ],
   "respuestas": [
@@ -260,7 +274,8 @@
       "origen": [
         1,
         2,
-        -4
+        -4,
+        -15
       ]
     },
     {
@@ -377,6 +392,16 @@
         -12,
         13,
         14
+      ]
+    },
+    {
+      "id": 16,
+      "nombre": "Jefe Wiggum (Clancy Wiggum)",
+      "descripcion": "Incompetente y perezoso jefe de policía de Springfield.",
+      "origen": [
+        1,
+        2,
+        15
       ]
     }
   ]
