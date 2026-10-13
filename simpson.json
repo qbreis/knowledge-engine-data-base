@@ -25,7 +25,8 @@
       "id": 2,
       "texto": "Tiene esposa e hijos.",
       "si": [
-        1
+        1,
+        -4
       ],
       "no": [
         3,
@@ -47,6 +48,19 @@
       "noSe": [
         7
       ]
+    },
+    {
+      "id": 4,
+      "texto": "Aficionado a la cerveza Duff.",
+      "si": [
+        1
+      ],
+      "no": [
+        6
+      ],
+      "noSe": [
+        6
+      ]
     }
   ],
   "respuestas": [
@@ -55,7 +69,8 @@
       "nombre": "Homer Simpson",
       "descripcion": "Padre de la familia, aficionado a la cerveza Duff y a los donuts, conocido por su frase «¡D'oh!».",
       "origen": [
-        2
+        2,
+        4
       ]
     },
     {
@@ -90,7 +105,11 @@
       "id": 6,
       "nombre": "Ned Flanders",
       "descripcion": "Vecino perspicaz, devoto cristiano y extremadamente optimista, constante objeto de la frustración de Homer.",
-      "origen": []
+      "origen": [
+        1,
+        2,
+        -4
+      ]
     },
     {
       "id": 7,
