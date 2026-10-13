@@ -72,7 +72,8 @@
         -8
       ],
       "no": [
-        3
+        3,
+        -9
       ],
       "noSe": [
         3
@@ -117,6 +118,19 @@
       "noSe": [
         8
       ]
+    },
+    {
+      "id": 9,
+      "texto": "Es alumno de la Escuela Primaria de Springfield.",
+      "si": [
+        3
+      ],
+      "no": [
+        9
+      ],
+      "noSe": [
+        3
+      ]
     }
   ],
   "respuestas": [
@@ -146,7 +160,8 @@
         1,
         -2,
         -3,
-        -5
+        -5,
+        9
       ]
     },
     {
@@ -204,7 +219,13 @@
       "id": 9,
       "nombre": "Moe Szyslak",
       "descripcion": "Propietario de la taberna local, de carácter arisco y cascarrabias pero con un trasfondo solitario.",
-      "origen": []
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        -9
+      ]
     },
     {
       "id": 10,
