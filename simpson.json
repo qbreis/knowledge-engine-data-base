@@ -43,7 +43,8 @@
         7
       ],
       "no": [
-        3
+        3,
+        -5
       ],
       "noSe": [
         7
@@ -60,6 +61,19 @@
       ],
       "noSe": [
         6
+      ]
+    },
+    {
+      "id": 5,
+      "texto": "Lleva gafas.",
+      "si": [
+        14
+      ],
+      "no": [
+        3
+      ],
+      "noSe": [
+        3
       ]
     }
   ],
@@ -86,7 +100,8 @@
       "origen": [
         1,
         -2,
-        -3
+        -3,
+        -5
       ]
     },
     {
@@ -156,6 +171,17 @@
       "nombre": "Krusty el Payaso",
       "descripcion": "Presentador del programa de televisión infantil favorito de Bart y Lisa, con estilo de vida caótico y empresarial.",
       "origen": []
+    },
+    {
+      "id": 14,
+      "nombre": "Milhouse Van Houten",
+      "descripcion": "Mejor amigo de Bart, ingenuo, con gafas y blanco habitual de las travesuras del colegio.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        5
+      ]
     }
   ]
 }
