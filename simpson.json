@@ -239,7 +239,9 @@
       "origen": [
         2,
         4,
-        1
+        1,
+        -3,
+        -5
       ]
     },
     {
@@ -249,7 +251,11 @@
       "origen": [
         -6,
         -7,
-        -1
+        -1,
+        2,
+        -3,
+        -4,
+        -5
       ]
     },
     {
@@ -262,7 +268,8 @@
         -3,
         -5,
         9,
-        -16
+        -16,
+        -4
       ]
     },
     {
@@ -271,7 +278,11 @@
       "descripcion": "Hija mediana, niña prodigio, vegetariana, ecologista y virtuosa del saxofón.",
       "origen": [
         -1,
-        6
+        6,
+        -2,
+        -3,
+        -4,
+        -5
       ]
     },
     {
@@ -281,7 +292,11 @@
       "origen": [
         -1,
         -6,
-        7
+        7,
+        -2,
+        -3,
+        -4,
+        -5
       ]
     },
     {
@@ -292,7 +307,8 @@
         1,
         2,
         -4,
-        -15
+        -15,
+        -3
       ]
     },
     {
@@ -302,7 +318,8 @@
       "origen": [
         1,
         -2,
-        3
+        3,
+        -4
       ]
     },
     {
@@ -314,7 +331,8 @@
         -2,
         -3,
         5,
-        -8
+        -8,
+        -4
       ]
     },
     {
@@ -366,7 +384,10 @@
       "nombre": "Carl Carlson",
       "descripcion": "Compañero de trabajo de Homer en la central nuclear y mejor amigo de Lenny, de personalidad observadora, pragmática y con un máster en ingeniería nuclear.",
       "origen": [
-        1
+        1,
+        -2,
+        -3,
+        -5
       ]
     },
     {
@@ -393,7 +414,8 @@
         -2,
         -3,
         5,
-        8
+        8,
+        -4
       ]
     },
     {
@@ -410,7 +432,8 @@
         -11,
         -12,
         13,
-        14
+        14,
+        -4
       ]
     },
     {
@@ -421,7 +444,9 @@
         1,
         2,
         15,
-        16
+        16,
+        -3,
+        -5
       ]
     }
   ]
