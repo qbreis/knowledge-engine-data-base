@@ -140,6 +140,20 @@
         10
       ],
       "no": [
+        9,
+        -11
+      ],
+      "noSe": [
+        9
+      ]
+    },
+    {
+      "id": 11,
+      "texto": "Cliente habitual del bar de Moe.",
+      "si": [
+        11
+      ],
+      "no": [
         9
       ],
       "noSe": [
@@ -239,7 +253,8 @@
         -3,
         -5,
         -9,
-        -10
+        -10,
+        -11
       ]
     },
     {
@@ -259,7 +274,15 @@
       "id": 11,
       "nombre": "Lenny Leonard",
       "descripcion": "Empleado de la central nuclear de Springfield, fiel amigo de Homer y Carl, conocido por su carácter ingenuo y por sufrir constantes accidentes en sus ojos.",
-      "origen": []
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        -9,
+        -10,
+        11
+      ]
     },
     {
       "id": 12,
