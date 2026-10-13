@@ -126,10 +126,24 @@
         3
       ],
       "no": [
-        9
+        9,
+        -10
       ],
       "noSe": [
         3
+      ]
+    },
+    {
+      "id": 10,
+      "texto": "Suele estar borracho.",
+      "si": [
+        10
+      ],
+      "no": [
+        9
+      ],
+      "noSe": [
+        9
       ]
     }
   ],
@@ -224,14 +238,22 @@
         -2,
         -3,
         -5,
-        -9
+        -9,
+        -10
       ]
     },
     {
       "id": 10,
       "nombre": "Barney Gumble",
       "descripcion": "Mejor amigo de la infancia de Homer y cliente más fiel de la taberna de Moe. El borracho del pueblo, habitualmente desempleado.",
-      "origen": []
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        -9,
+        10
+      ]
     },
     {
       "id": 11,
