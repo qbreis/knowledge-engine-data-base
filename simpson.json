@@ -27,13 +27,6 @@
       "nombre": "Homer Simpson",
       "descripcion": "Padre de la familia, aficionado a la cerveza Duff y a los donuts, conocido por su frase «¡D'oh!».",
       "origen": [
-        1,
-        -2,
-        -5,
-        -7,
-        -8,
-        -9,
-        10
       ]
     },
     {
@@ -41,8 +34,6 @@
       "nombre": "Marge Simpson",
       "descripcion": "Matriarca de la familia, reconocida por su alto peinado azul y por ser la voz de la razón en el hogar.",
       "origen": [
-        -1,
-        -6
       ]
     },
     {
@@ -50,7 +41,6 @@
       "nombre": "Bart Simpson",
       "descripcion": "Hijo mayor, rebelde y bromista, célebre por sus travesuras en monopatín y sus llamadas en tono de burla a la taberna de Moe.",
       "origen": [
-        2
       ]
     },
     {
@@ -58,8 +48,6 @@
       "nombre": "Lisa Simpson",
       "descripcion": "Hija mediana, niña prodigio, vegetariana, ecologista y virtuosa del saxofón.",
       "origen": [
-        -1,
-        4
       ]
     },
     {
@@ -67,9 +55,6 @@
       "nombre": "Maggie Simpson",
       "descripcion": "La bebé de la familia, que rara vez habla y siempre lleva su chupete rojo.",
       "origen": [
-        -1,
-        -4,
-        6
       ]
     },
     {
@@ -77,8 +62,6 @@
       "nombre": "Ned Flanders",
       "descripcion": "Vecino perspicaz, devoto cristiano y extremadamente optimista, constante objeto de la frustración de Homer.",
       "origen": [
-        -2,
-        3
       ]
     },
     {
@@ -86,10 +69,6 @@
       "nombre": "Sr. Burns (Charles Montgomery Burns)",
       "descripcion": "Anciano multimillonario, avaricioso y dueño de la central nuclear de Springfield.",
       "origen": [
-        1,
-        -2,
-        -3,
-        5
       ]
     },
     {
@@ -97,9 +76,6 @@
       "nombre": "Waylon Smithers",
       "descripcion": "Fiel asistente personal del Sr. Burns, eternamente leal y enamorado en secreto de su jefe.",
       "origen": [
-        1,
-        -2,
-        7
       ]
     },
     {
@@ -107,11 +83,6 @@
       "nombre": "Moe Szyslak",
       "descripcion": "Propietario de la taberna local, de carácter arisco y cascarrabias pero con un trasfondo solitario.",
       "origen": [
-        1,
-        -2,
-        -3,
-        -5,
-        8
       ]
     },
     {
@@ -119,12 +90,6 @@
       "nombre": "Barney Gumble",
       "descripcion": "Mejor amigo de la infancia de Homer y cliente más fiel de la taberna de Moe. El borracho del pueblo, habitualmente desempleado.",
       "origen": [
-        1,
-        -2,
-        -3,
-        -5,
-        -8,
-        9
       ]
     },
     {
@@ -132,14 +97,6 @@
       "nombre": "Lenny Leonard",
       "descripcion": "Empleado de la central nuclear de Springfield, fiel amigo de Homer y Carl, conocido por su carácter ingenuo y por sufrir constantes accidentes en sus ojos.",
       "origen": [
-        1,
-        -2,
-        -3,
-        -5,
-        -8,
-        -9,
-        -10,
-        11
       ]
     },
     {
@@ -147,15 +104,6 @@
       "nombre": "Carl Carlson",
       "descripcion": "Compañero de trabajo de Homer en la central nuclear y mejor amigo de Lenny, de personalidad observadora, pragmática y con un máster en ingeniería nuclear.",
       "origen": [
-        1,
-        -2,
-        -3,
-        -5,
-        -8,
-        -9,
-        -10,
-        -11,
-        12
       ]
     },
     {
@@ -163,15 +111,6 @@
       "nombre": "Krusty el Payaso",
       "descripcion": "Presentador del programa de televisión infantil favorito de Bart y Lisa, con estilo de vida caótico y empresarial.",
       "origen": [
-        1,
-        -2,
-        -3,
-        -5,
-        -8,
-        -9,
-        -10,
-        -11,
-        -12
       ]
     }
   ]
