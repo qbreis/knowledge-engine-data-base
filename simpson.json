@@ -68,7 +68,8 @@
       "id": 5,
       "texto": "Lleva gafas.",
       "si": [
-        14
+        14,
+        -8
       ],
       "no": [
         3
@@ -102,6 +103,19 @@
       ],
       "noSe": [
         5
+      ]
+    },
+    {
+      "id": 8,
+      "texto": "Es alumno de la Escuela Primaria de Springfield.",
+      "si": [
+        14
+      ],
+      "no": [
+        8
+      ],
+      "noSe": [
+        8
       ]
     }
   ],
@@ -178,7 +192,13 @@
       "id": 8,
       "nombre": "Waylon Smithers",
       "descripcion": "Fiel asistente personal del Sr. Burns, eternamente leal y enamorado en secreto de su jefe.",
-      "origen": []
+      "origen": [
+        1,
+        -2,
+        -3,
+        5,
+        -8
+      ]
     },
     {
       "id": 9,
@@ -218,7 +238,8 @@
         1,
         -2,
         -3,
-        5
+        5,
+        8
       ]
     }
   ]
