@@ -365,7 +365,9 @@
       "id": 12,
       "nombre": "Carl Carlson",
       "descripcion": "Compañero de trabajo de Homer en la central nuclear y mejor amigo de Lenny, de personalidad observadora, pragmática y con un máster en ingeniería nuclear.",
-      "origen": []
+      "origen": [
+        1
+      ]
     },
     {
       "id": 13,
