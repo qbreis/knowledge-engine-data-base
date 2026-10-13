@@ -28,10 +28,24 @@
         1
       ],
       "no": [
-        3
+        3,
+        -3
       ],
       "noSe": [
         3
+      ]
+    },
+    {
+      "id": 3,
+      "texto": "Es un empresario multimillonario.",
+      "si": [
+        7
+      ],
+      "no": [
+        3
+      ],
+      "noSe": [
+        7
       ]
     }
   ],
@@ -56,7 +70,8 @@
       "descripcion": "Hijo mayor, rebelde y bromista, célebre por sus travesuras en monopatín y sus llamadas en tono de burla a la taberna de Moe.",
       "origen": [
         1,
-        -2
+        -2,
+        -3
       ]
     },
     {
@@ -81,7 +96,11 @@
       "id": 7,
       "nombre": "Sr. Burns (Charles Montgomery Burns)",
       "descripcion": "Anciano multimillonario, avaricioso y dueño de la central nuclear de Springfield.",
-      "origen": []
+      "origen": [
+        1,
+        -2,
+        3
+      ]
     },
     {
       "id": 8,
