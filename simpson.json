@@ -352,10 +352,24 @@
         22
       ],
       "no": [
-        19
+        19,
+        -26
       ],
       "noSe": [
         19
+      ]
+    },
+    {
+      "id": 26,
+      "texto": "Es un empollón.",
+      "si": [
+        23
+      ],
+      "no": [
+        19
+      ],
+      "noSe": [
+        23
       ]
     }
   ],
@@ -772,7 +786,8 @@
         -5,
         9,
         -19,
-        -25
+        -25,
+        -26
       ]
     },
     {
@@ -813,6 +828,20 @@
         9,
         -19,
         25
+      ]
+    },
+    {
+      "id": 23,
+      "nombre": "Martin Prince",
+      "descripcion": "Alumno superdotado, refinado y repipí de la Escuela Primaria de Springfield. Blanco favorito de las bromas de los matones. Compañero de clase de Bart en cuarto de primaria con la señorita Krabappel.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        9,
+        -25,
+        26
       ]
     }
   ]
