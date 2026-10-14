@@ -127,7 +127,8 @@
       "id": 9,
       "texto": "Es alumno de la Escuela Primaria de Springfield.",
       "si": [
-        3
+        3,
+        -19
       ],
       "no": [
         9,
@@ -257,6 +258,19 @@
       "noSe": [
         18
       ]
+    },
+    {
+      "id": 19,
+      "texto": "Tiene hermanos o hermanas.",
+      "si": [
+        3
+      ],
+      "no": [
+        19
+      ],
+      "noSe": [
+        19
+      ]
     }
   ],
   "respuestas": [
@@ -327,7 +341,8 @@
         -12,
         -14,
         -15,
-        -10
+        -10,
+        19
       ]
     },
     {
@@ -650,6 +665,19 @@
         2,
         -4,
         18
+      ]
+    },
+    {
+      "id": 19,
+      "nombre": "Nelson Muntz",
+      "descripcion": "El matón del colegio, famoso por su característica risa burlona «¡Ja, ja!».",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        9,
+        -19
       ]
     }
   ]
