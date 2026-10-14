@@ -410,7 +410,8 @@
         26
       ],
       "no": [
-        25
+        25,
+        -32
       ],
       "noSe": [
         25
@@ -440,6 +441,19 @@
       ],
       "noSe": [
         9
+      ]
+    },
+    {
+      "id": 32,
+      "texto": "Es una anciana cascarrabias que vive con su hijo maduro y lo domina.",
+      "si": [
+        28
+      ],
+      "no": [
+        25
+      ],
+      "noSe": [
+        25
       ]
     }
   ],
@@ -942,7 +956,8 @@
         -17,
         -22,
         -28,
-        -29
+        -29,
+        -32
       ]
     },
     {
@@ -978,6 +993,21 @@
         -12,
         -13,
         31
+      ]
+    },
+    {
+      "id": 28,
+      "nombre": "Agnes Skinner",
+      "descripcion": "Madre anciana, dominante y cascarrabias del Director Skinner, a quien controla y exige obediencia constante.",
+      "origen": [
+        -1,
+        -6,
+        -7,
+        -17,
+        -22,
+        -28,
+        -29,
+        32
       ]
     }
   ]
