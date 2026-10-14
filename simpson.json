@@ -393,7 +393,8 @@
       "id": 28,
       "texto": "Está casada y tiene hijos.",
       "si": [
-        2
+        2,
+        -33
       ],
       "no": [
         25,
@@ -455,6 +456,19 @@
       "noSe": [
         25
       ]
+    },
+    {
+      "id": 33,
+      "texto": "Es una anciana cascarrabias que vive con su hijo maduro y lo domina.",
+      "si": [
+        28
+      ],
+      "no": [
+        2
+      ],
+      "noSe": [
+        2
+      ]
     }
   ],
   "respuestas": [
@@ -504,7 +518,8 @@
         -10,
         -17,
         -22,
-        28
+        28,
+        -33
       ]
     },
     {
@@ -1007,7 +1022,9 @@
         -22,
         -28,
         -29,
-        32
+        32,
+        28,
+        33
       ]
     }
   ]
