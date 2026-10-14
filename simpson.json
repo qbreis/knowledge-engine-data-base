@@ -383,7 +383,8 @@
         24
       ],
       "no": [
-        6
+        6,
+        -34
       ],
       "noSe": [
         24
@@ -468,6 +469,19 @@
       ],
       "noSe": [
         2
+      ]
+    },
+    {
+      "id": 34,
+      "texto": "Es el párroco / sacerdote oficial de la iglesia de Springfield",
+      "si": [
+        29
+      ],
+      "no": [
+        6
+      ],
+      "noSe": [
+        6
       ]
     }
   ],
@@ -617,7 +631,8 @@
         -18,
         5,
         -20,
-        -27
+        -27,
+        -34
       ]
     },
     {
@@ -1025,6 +1040,20 @@
         32,
         28,
         33
+      ]
+    },
+    {
+      "id": 29,
+      "nombre": "Reverendo Lovejoy (Timothy Lovejoy)",
+      "descripcion": "Párroco de la iglesia de Springfield, apático y desilusionado por las constantes consultas morales e interrupciones de Ned Flanders.",
+      "origen": [
+        1,
+        2,
+        -4,
+        -18,
+        -20,
+        -27,
+        34
       ]
     }
   ]
