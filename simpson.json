@@ -394,6 +394,20 @@
         2
       ],
       "no": [
+        25,
+        -29
+      ],
+      "noSe": [
+        25
+      ]
+    },
+    {
+      "id": 29,
+      "texto": "Tiene una iguana como mascota.",
+      "si": [
+        26
+      ],
+      "no": [
         25
       ],
       "noSe": [
@@ -897,7 +911,22 @@
         -7,
         -17,
         -22,
-        -28
+        -28,
+        -29
+      ]
+    },
+    {
+      "id": 26,
+      "nombre": "Selma Bouvier",
+      "descripcion": "Hermana gemela de Patty; fumadora empedernida, desesperada por encontrar el amor y eternamente acompañada por su iguana Jub-Jub.",
+      "origen": [
+        -1,
+        -6,
+        -7,
+        -17,
+        -22,
+        -28,
+        29
       ]
     }
   ]
