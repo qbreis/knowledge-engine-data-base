@@ -59,7 +59,8 @@
         1
       ],
       "no": [
-        6
+        6,
+        -18
       ],
       "noSe": [
         6,
@@ -243,6 +244,19 @@
       "noSe": [
         2
       ]
+    },
+    {
+      "id": 18,
+      "texto": "Es el dueño y dependiente del Badulaque (Kwik-E-Mart).",
+      "si": [
+        18
+      ],
+      "no": [
+        6
+      ],
+      "noSe": [
+        18
+      ]
     }
   ],
   "respuestas": [
@@ -382,7 +396,8 @@
         -12,
         -14,
         -16,
-        -10
+        -10,
+        -18
       ]
     },
     {
@@ -624,6 +639,17 @@
         -6,
         -7,
         17
+      ]
+    },
+    {
+      "id": 18,
+      "nombre": "Apu Nahasapeemapetilon",
+      "descripcion": "Dueño y dependiente del Badulaque (Kwik-E-Mart), conocido por su trabajo incansable.",
+      "origen": [
+        1,
+        2,
+        -4,
+        18
       ]
     }
   ]
