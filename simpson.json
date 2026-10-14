@@ -325,7 +325,8 @@
       "id": 23,
       "texto": "Tiene el pelo rizado de color negro.",
       "si": [
-        12
+        12,
+        -30
       ],
       "no": [
         3
@@ -412,6 +413,19 @@
       ],
       "noSe": [
         25
+      ]
+    },
+    {
+      "id": 30,
+      "texto": "Suele llevar gorra y auriculares.",
+      "si": [
+        27
+      ],
+      "no": [
+        12
+      ],
+      "noSe": [
+        12
       ]
     }
   ],
@@ -702,7 +716,8 @@
         -10,
         -21,
         23,
-        24
+        24,
+        -30
       ]
     },
     {
@@ -927,6 +942,18 @@
         -22,
         -28,
         29
+      ]
+    },
+    {
+      "id": 27,
+      "nombre": "Otto Mann",
+      "descripcion": "Conductor del autobús escolar, apasionado del Heavy Metal, con estilo de vida bohemio y conducta desenfadada.",
+      "origen": [
+        1,
+        -16,
+        -21,
+        23,
+        30
       ]
     }
   ]
