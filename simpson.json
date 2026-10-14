@@ -271,7 +271,8 @@
         3
       ],
       "no": [
-        19
+        19,
+        -25
       ],
       "noSe": [
         19
@@ -341,6 +342,19 @@
       ],
       "noSe": [
         9
+      ]
+    },
+    {
+      "id": 25,
+      "texto": "Suele meterse el dedo en la nariz.",
+      "si": [
+        22
+      ],
+      "no": [
+        19
+      ],
+      "noSe": [
+        19
       ]
     }
   ],
@@ -756,7 +770,8 @@
         -3,
         -5,
         9,
-        -19
+        -19,
+        -25
       ]
     },
     {
@@ -783,6 +798,20 @@
         -7,
         -17,
         22
+      ]
+    },
+    {
+      "id": 22,
+      "nombre": "Ralph Wiggum",
+      "descripcion": "Es el hijo del jefe de policía Clancy Wiggum y de Sarah Wiggum. Es compañero de clase de Lisa Simpson. De comportamiento errático, rozando incluso con la estupidez y la locura.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        9,
+        -19,
+        25
       ]
     }
   ]
