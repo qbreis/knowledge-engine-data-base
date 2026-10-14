@@ -1,0 +1,1312 @@
+{
+  "name": "Personajes de los Simpson",
+  "version": [
+    {
+      "number": 1,
+      "date": "2026-10-01"
+    }
+  ],
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "Es de género masculino.",
+      "si": [
+        1,
+        -2
+      ],
+      "no": [
+        2,
+        -6
+      ],
+      "noSe": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "texto": "Tiene esposa e hijos.",
+      "si": [
+        1,
+        -4
+      ],
+      "no": [
+        3,
+        -3
+      ],
+      "noSe": [
+        3,
+        -16
+      ]
+    },
+    {
+      "id": 3,
+      "texto": "Es un empresario multimillonario.",
+      "si": [
+        7
+      ],
+      "no": [
+        3,
+        -5
+      ],
+      "noSe": [
+        7
+      ]
+    },
+    {
+      "id": 4,
+      "texto": "Aficionado a la cerveza Duff.",
+      "si": [
+        1
+      ],
+      "no": [
+        6,
+        -18
+      ],
+      "noSe": [
+        6,
+        -15
+      ]
+    },
+    {
+      "id": 5,
+      "texto": "Lleva gafas.",
+      "si": [
+        14,
+        -8
+      ],
+      "no": [
+        3,
+        -9
+      ],
+      "noSe": [
+        3
+      ]
+    },
+    {
+      "id": 6,
+      "texto": "Es alumna de la Escuela Primaria de Springfield.",
+      "si": [
+        4,
+        -37
+      ],
+      "no": [
+        2,
+        -7
+      ],
+      "noSe": [
+        2
+      ]
+    },
+    {
+      "id": 7,
+      "texto": "Usa chupete.",
+      "si": [
+        5
+      ],
+      "no": [
+        2,
+        -17
+      ],
+      "noSe": [
+        5
+      ]
+    },
+    {
+      "id": 8,
+      "texto": "Es alumno de la Escuela Primaria de Springfield.",
+      "si": [
+        14
+      ],
+      "no": [
+        8
+      ],
+      "noSe": [
+        8
+      ]
+    },
+    {
+      "id": 9,
+      "texto": "Es alumno de la Escuela Primaria de Springfield.",
+      "si": [
+        3,
+        -19
+      ],
+      "no": [
+        9,
+        -10
+      ],
+      "noSe": [
+        3
+      ]
+    },
+    {
+      "id": 10,
+      "texto": "Suele estar borracho.",
+      "si": [
+        10
+      ],
+      "no": [
+        9,
+        -11
+      ],
+      "noSe": [
+        9,
+        -24
+      ]
+    },
+    {
+      "id": 11,
+      "texto": "Cliente habitual del bar de Moe.",
+      "si": [
+        11
+      ],
+      "no": [
+        9,
+        -12
+      ],
+      "noSe": [
+        9
+      ]
+    },
+    {
+      "id": 12,
+      "texto": "Es o ha sido presentador de un programa de televición infantil.",
+      "si": [
+        13
+      ],
+      "no": [
+        9,
+        -13
+      ],
+      "noSe": [
+        9
+      ]
+    },
+    {
+      "id": 13,
+      "texto": "Vive con su madre.",
+      "si": [
+        15
+      ],
+      "no": [
+        9,
+        -31
+      ],
+      "noSe": [
+        9,
+        -14
+      ]
+    },
+    {
+      "id": 14,
+      "texto": "Es direcor de la Escuela Primaria de Springfield.",
+      "si": [
+        15
+      ],
+      "no": [
+        9
+      ],
+      "noSe": [
+        15
+      ]
+    },
+    {
+      "id": 15,
+      "texto": "Es policía.",
+      "si": [
+        16
+      ],
+      "no": [
+        6
+      ],
+      "noSe": [
+        16
+      ]
+    },
+    {
+      "id": 16,
+      "texto": "Es policía.",
+      "si": [
+        16
+      ],
+      "no": [
+        3,
+        -21
+      ],
+      "noSe": [
+        16
+      ]
+    },
+    {
+      "id": 17,
+      "texto": "Es profesora.",
+      "si": [
+        17
+      ],
+      "no": [
+        2,
+        -22
+      ],
+      "noSe": [
+        2,
+        -22
+      ]
+    },
+    {
+      "id": 18,
+      "texto": "Es el dueño y dependiente del Badulaque (Kwik-E-Mart).",
+      "si": [
+        18
+      ],
+      "no": [
+        6,
+        -20
+      ],
+      "noSe": [
+        18
+      ]
+    },
+    {
+      "id": 19,
+      "texto": "Tiene hermanos o hermanas.",
+      "si": [
+        3,
+        -40
+      ],
+      "no": [
+        19,
+        -25
+      ],
+      "noSe": [
+        19,
+        -25
+      ]
+    },
+    {
+      "id": 20,
+      "texto": "Trabaja en televisión.",
+      "si": [
+        20
+      ],
+      "no": [
+        6,
+        -27
+      ],
+      "noSe": [
+        6
+      ]
+    },
+    {
+      "id": 21,
+      "texto": "Trabaja en televisión.",
+      "si": [
+        20
+      ],
+      "no": [
+        3,
+        -23
+      ],
+      "noSe": [
+        20
+      ]
+    },
+    {
+      "id": 22,
+      "texto": "Trabaja en televisión.",
+      "si": [
+        21
+      ],
+      "no": [
+        2,
+        -28
+      ],
+      "noSe": [
+        21
+      ]
+    },
+    {
+      "id": 23,
+      "texto": "Tiene el pelo rizado de color negro.",
+      "si": [
+        12,
+        -30
+      ],
+      "no": [
+        3,
+        -35
+      ],
+      "noSe": [
+        3
+      ]
+    },
+    {
+      "id": 24,
+      "texto": "Tiene el pelo rizado de color negro.",
+      "si": [
+        12
+      ],
+      "no": [
+        9
+      ],
+      "noSe": [
+        9
+      ]
+    },
+    {
+      "id": 25,
+      "texto": "Suele meterse el dedo en la nariz.",
+      "si": [
+        22
+      ],
+      "no": [
+        19,
+        -26
+      ],
+      "noSe": [
+        19
+      ]
+    },
+    {
+      "id": 26,
+      "texto": "Es un empollón.",
+      "si": [
+        23
+      ],
+      "no": [
+        19,
+        -39
+      ],
+      "noSe": [
+        23
+      ]
+    },
+    {
+      "id": 27,
+      "texto": "Está jubilado.",
+      "si": [
+        24
+      ],
+      "no": [
+        6,
+        -34
+      ],
+      "noSe": [
+        24
+      ]
+    },
+    {
+      "id": 28,
+      "texto": "Está casada y tiene hijos.",
+      "si": [
+        2,
+        -33
+      ],
+      "no": [
+        25,
+        -29
+      ],
+      "noSe": [
+        25
+      ]
+    },
+    {
+      "id": 29,
+      "texto": "Tiene una iguana como mascota.",
+      "si": [
+        26
+      ],
+      "no": [
+        25,
+        -32
+      ],
+      "noSe": [
+        25
+      ]
+    },
+    {
+      "id": 30,
+      "texto": "Suele llevar gorra y auriculares.",
+      "si": [
+        27
+      ],
+      "no": [
+        12
+      ],
+      "noSe": [
+        12
+      ]
+    },
+    {
+      "id": 31,
+      "texto": "Tiene melena larga y rizada.",
+      "si": [
+        27
+      ],
+      "no": [
+        9
+      ],
+      "noSe": [
+        9
+      ]
+    },
+    {
+      "id": 32,
+      "texto": "Es una anciana cascarrabias que vive con su hijo maduro y lo domina.",
+      "si": [
+        28
+      ],
+      "no": [
+        25
+      ],
+      "noSe": [
+        25
+      ]
+    },
+    {
+      "id": 33,
+      "texto": "Es una anciana cascarrabias que vive con su hijo maduro y lo domina.",
+      "si": [
+        28
+      ],
+      "no": [
+        2,
+        -36
+      ],
+      "noSe": [
+        2
+      ]
+    },
+    {
+      "id": 34,
+      "texto": "Es el párroco / sacerdote oficial de la iglesia de Springfield",
+      "si": [
+        29
+      ],
+      "no": [
+        6,
+        -41
+      ],
+      "noSe": [
+        6
+      ]
+    },
+    {
+      "id": 35,
+      "texto": "Es el párroco / sacerdote oficial de la iglesia de Springfield.",
+      "si": [
+        29
+      ],
+      "no": [
+        3,
+        -42
+      ],
+      "noSe": [
+        3
+      ]
+    },
+    {
+      "id": 36,
+      "texto": "Tiene solamente dos hijos.",
+      "si": [
+        30
+      ],
+      "no": [
+        2
+      ],
+      "noSe": [
+        30
+      ]
+    },
+    {
+      "id": 37,
+      "texto": "Tiene una hermana gemela.",
+      "si": [
+        31,
+        -38
+      ],
+      "no": [
+        4
+      ],
+      "noSe": [
+        31
+      ]
+    },
+    {
+      "id": 38,
+      "texto": "Es la gemela que suele tomar la iniciativa al hablar o burlarse primero.",
+      "si": [
+        31
+      ],
+      "no": [
+        32
+      ],
+      "noSe": [
+        32
+      ]
+    },
+    {
+      "id": 39,
+      "texto": "Suele llevar un gorro de lana morado.",
+      "si": [
+        33
+      ],
+      "no": [
+        19,
+        -43
+      ],
+      "noSe": [
+        19
+      ]
+    },
+    {
+      "id": 40,
+      "texto": "Suele llevar un gorro de lana morado.",
+      "si": [
+        33
+      ],
+      "no": [
+        3
+      ],
+      "noSe": [
+        33
+      ]
+    },
+    {
+      "id": 41,
+      "texto": "Es alumno de la Escuela Primaria de Springfield.",
+      "si": [
+        34
+      ],
+      "no": [
+        6
+      ],
+      "noSe": [
+        34
+      ]
+    },
+    {
+      "id": 42,
+      "texto": "Es completamente calvo.",
+      "si": [
+        34
+      ],
+      "no": [
+        3
+      ],
+      "noSe": [
+        3
+      ]
+    },
+    {
+      "id": 43,
+      "texto": "Es completamente calvo.",
+      "si": [
+        34
+      ],
+      "no": [
+        19,
+        -44
+      ],
+      "noSe": [
+        34
+      ]
+    },
+    {
+      "id": 44,
+      "texto": "Es compañero de clase de Bart.",
+      "si": [
+        19
+      ],
+      "no": [
+        35
+      ],
+      "noSe": [
+        35
+      ]
+    }
+  ],
+  "respuestas": [
+    {
+      "id": 1,
+      "nombre": "Homer Simpson",
+      "descripcion": "Padre de la familia, aficionado a la cerveza Duff y a los donuts, conocido por su frase «¡D'oh!».",
+      "origen": [
+        2,
+        4,
+        1,
+        -3,
+        -5,
+        -6,
+        -7,
+        -8,
+        -9,
+        11,
+        -13,
+        -12,
+        -14,
+        -15,
+        -16,
+        10
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Marge Simpson",
+      "descripcion": "Matriarca de la familia, reconocida por su alto peinado azul y por ser la voz de la razón en el hogar.",
+      "origen": [
+        -6,
+        -7,
+        -1,
+        2,
+        -3,
+        -4,
+        -5,
+        -8,
+        -9,
+        -11,
+        -13,
+        -12,
+        -14,
+        -15,
+        -16,
+        -10,
+        -17,
+        -22,
+        28,
+        -33,
+        -36
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Bart Simpson",
+      "descripcion": "Hijo mayor, rebelde y bromista, célebre por sus travesuras en monopatín y sus llamadas en tono de burla a la taberna de Moe.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        9,
+        -16,
+        -4,
+        6,
+        -7,
+        8,
+        -11,
+        13,
+        -12,
+        -14,
+        -15,
+        -10,
+        19,
+        -21,
+        -23,
+        -35,
+        -40,
+        -42
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Lisa Simpson",
+      "descripcion": "Hija mediana, niña prodigio, vegetariana, ecologista y virtuosa del saxofón.",
+      "origen": [
+        -1,
+        6,
+        -2,
+        -3,
+        -4,
+        -5,
+        -7,
+        8,
+        9,
+        -11,
+        13,
+        -12,
+        -14,
+        -15,
+        -16,
+        -10,
+        -37
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Maggie Simpson",
+      "descripcion": "La bebé de la familia, que rara vez habla y siempre lleva su chupete rojo.",
+      "origen": [
+        -1,
+        -6,
+        7,
+        -2,
+        -3,
+        -4,
+        -5,
+        -8,
+        -9,
+        -11,
+        13,
+        -12,
+        -14,
+        -15,
+        -16,
+        -10
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Ned Flanders",
+      "descripcion": "Vecino perspicaz, devoto cristiano y extremadamente optimista, constante objeto de la frustración de Homer.",
+      "origen": [
+        1,
+        2,
+        -4,
+        -15,
+        -3,
+        -6,
+        -7,
+        -8,
+        -9,
+        -11,
+        -13,
+        -12,
+        -14,
+        -16,
+        -10,
+        -18,
+        5,
+        -20,
+        -27,
+        -34,
+        -41
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Sr. Burns (Charles Montgomery Burns)",
+      "descripcion": "Anciano multimillonario, avaricioso y dueño de la central nuclear de Springfield.",
+      "origen": [
+        1,
+        -2,
+        3,
+        -4,
+        -5,
+        -6,
+        -7,
+        -8,
+        -9,
+        -11,
+        -13,
+        -12,
+        -14,
+        -15,
+        -16,
+        -10
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Waylon Smithers",
+      "descripcion": "Fiel asistente personal del Sr. Burns, eternamente leal y enamorado en secreto de su jefe.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        5,
+        -8,
+        -4,
+        -6,
+        -7,
+        -9,
+        -11,
+        -13,
+        -12,
+        -14,
+        -15,
+        -16,
+        -10
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Moe Szyslak",
+      "descripcion": "Propietario de la taberna local, de carácter arisco y cascarrabias pero con un trasfondo solitario.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        -9,
+        -10,
+        -11,
+        -12,
+        -13,
+        -14,
+        -6,
+        -7,
+        -8,
+        -15,
+        -16,
+        4,
+        -24,
+        -31
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Barney Gumble",
+      "descripcion": "Mejor amigo de la infancia de Homer y cliente más fiel de la taberna de Moe. El borracho del pueblo, habitualmente desempleado.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        -9,
+        10,
+        -6,
+        -7,
+        -8,
+        11,
+        4,
+        -12,
+        -13,
+        -14,
+        -15,
+        -16
+      ]
+    },
+    {
+      "id": 11,
+      "nombre": "Lenny Leonard",
+      "descripcion": "Empleado de la central nuclear de Springfield, fiel amigo de Homer y Carl, conocido por su carácter ingenuo y por sufrir constantes accidentes en sus ojos.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        -9,
+        -10,
+        11,
+        -6,
+        -7,
+        -8,
+        4,
+        -12,
+        -13,
+        -14,
+        -15,
+        -16
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "Carl Carlson",
+      "descripcion": "Compañero de trabajo de Homer en la central nuclear y mejor amigo de Lenny, de personalidad observadora, pragmática y con un máster en ingeniería nuclear.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        -6,
+        -7,
+        -8,
+        -9,
+        11,
+        4,
+        -12,
+        -13,
+        -14,
+        -15,
+        -16,
+        -10,
+        -21,
+        23,
+        24,
+        -30
+      ]
+    },
+    {
+      "id": 13,
+      "nombre": "Krusty el Payaso",
+      "descripcion": "Presentador del programa de televisión infantil favorito de Bart y Lisa, con estilo de vida caótico y empresarial.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        -9,
+        -10,
+        -11,
+        12,
+        -6,
+        -7,
+        -8,
+        -4,
+        -13,
+        -14,
+        -15,
+        -16
+      ]
+    },
+    {
+      "id": 14,
+      "nombre": "Milhouse Van Houten",
+      "descripcion": "Mejor amigo de Bart, ingenuo, con gafas y blanco habitual de las travesuras del colegio.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        5,
+        8,
+        -4,
+        6,
+        -7,
+        9,
+        -11,
+        -12,
+        13,
+        -14,
+        -15,
+        -16,
+        -10
+      ]
+    },
+    {
+      "id": 15,
+      "nombre": "Seymour Skinner",
+      "descripcion": "Director de la Escuela Primaria de Springfield, estricto con los alumnos y completamente sometido a su madre.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        -9,
+        -10,
+        -11,
+        -12,
+        13,
+        14,
+        -4,
+        -6,
+        -7,
+        -8,
+        -15,
+        -16
+      ]
+    },
+    {
+      "id": 16,
+      "nombre": "Jefe Wiggum (Clancy Wiggum)",
+      "descripcion": "Incompetente y perezoso jefe de policía de Springfield.",
+      "origen": [
+        1,
+        2,
+        15,
+        16,
+        -3,
+        -5,
+        -6,
+        -7,
+        -8,
+        -9,
+        -11,
+        -4,
+        -12,
+        -13,
+        -14,
+        -10
+      ]
+    },
+    {
+      "id": 17,
+      "nombre": "Edna Krabappel",
+      "descripcion": "Profesora de cuarto grado de la Escuela Primaria de Springfield, desilusionada con su vida laboral y sentimental.",
+      "origen": [
+        -1,
+        -6,
+        -7,
+        17
+      ]
+    },
+    {
+      "id": 18,
+      "nombre": "Apu Nahasapeemapetilon",
+      "descripcion": "Dueño y dependiente del Badulaque (Kwik-E-Mart), conocido por su trabajo incansable.",
+      "origen": [
+        1,
+        2,
+        -4,
+        18
+      ]
+    },
+    {
+      "id": 19,
+      "nombre": "Nelson Muntz",
+      "descripcion": "El matón del colegio, famoso por su característica risa burlona «¡Ja, ja!».",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        9,
+        -19,
+        -25,
+        -26,
+        -39,
+        -43,
+        44
+      ]
+    },
+    {
+      "id": 20,
+      "nombre": "Kent Brockman",
+      "descripcion": "Presentador de las noticias del canal local, pretencioso y egocéntrico.",
+      "origen": [
+        1,
+        2,
+        -4,
+        -18,
+        20,
+        -16,
+        21
+      ]
+    },
+    {
+      "id": 21,
+      "nombre": "Stephanie Brockman",
+      "descripcion": "Esposa de Kent Brockman y la encargada de dar la información meteorológica en los informativos del Canal 6 de Springfield.",
+      "origen": [
+        -1,
+        -6,
+        -7,
+        -17,
+        22
+      ]
+    },
+    {
+      "id": 22,
+      "nombre": "Ralph Wiggum",
+      "descripcion": "Es el hijo del jefe de policía Clancy Wiggum y de Sarah Wiggum. Es compañero de clase de Lisa Simpson. De comportamiento errático, rozando incluso con la estupidez y la locura.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        9,
+        -19,
+        25
+      ]
+    },
+    {
+      "id": 23,
+      "nombre": "Martin Prince",
+      "descripcion": "Alumno superdotado, refinado y repipí de la Escuela Primaria de Springfield. Blanco favorito de las bromas de los matones. Compañero de clase de Bart en cuarto de primaria con la señorita Krabappel.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        9,
+        -25,
+        26
+      ]
+    },
+    {
+      "id": 24,
+      "nombre": "Abuelo Simpson (Abe Simpson)",
+      "descripcion": "Anciano residente de la residencia de ancianos, veterano de guerra desmemoriado y propenso a contar historias interminables e incoherentes.",
+      "origen": [
+        1,
+        2,
+        -4,
+        -18,
+        -20,
+        27
+      ]
+    },
+    {
+      "id": 25,
+      "nombre": "Patty Bouvier",
+      "descripcion": "Hermana gemela de Selma y hermana mayor de Marge. Empleada cínica en la oficina de tráfico. Odia profundamente a Homer.",
+      "origen": [
+        -1,
+        -6,
+        -7,
+        -17,
+        -22,
+        -28,
+        -29,
+        -32
+      ]
+    },
+    {
+      "id": 26,
+      "nombre": "Selma Bouvier",
+      "descripcion": "Hermana gemela de Patty; fumadora empedernida, desesperada por encontrar el amor y eternamente acompañada por su iguana Jub-Jub.",
+      "origen": [
+        -1,
+        -6,
+        -7,
+        -17,
+        -22,
+        -28,
+        29
+      ]
+    },
+    {
+      "id": 27,
+      "nombre": "Otto Mann",
+      "descripcion": "Conductor del autobús escolar, apasionado del Heavy Metal, con estilo de vida bohemio y conducta desenfadada.",
+      "origen": [
+        1,
+        -16,
+        -21,
+        23,
+        30,
+        -2,
+        -3,
+        -5,
+        -9,
+        -10,
+        -11,
+        -12,
+        -13,
+        31
+      ]
+    },
+    {
+      "id": 28,
+      "nombre": "Agnes Skinner",
+      "descripcion": "Madre anciana, dominante y cascarrabias del Director Skinner, a quien controla y exige obediencia constante.",
+      "origen": [
+        -1,
+        -6,
+        -7,
+        -17,
+        -22,
+        -28,
+        -29,
+        32,
+        28,
+        33
+      ]
+    },
+    {
+      "id": 29,
+      "nombre": "Reverendo Lovejoy (Timothy Lovejoy)",
+      "descripcion": "Párroco de la iglesia de Springfield, apático y desilusionado por las constantes consultas morales e interrupciones de Ned Flanders.",
+      "origen": [
+        1,
+        2,
+        -4,
+        -18,
+        -20,
+        -27,
+        34,
+        -16,
+        -21,
+        -23,
+        35
+      ]
+    },
+    {
+      "id": 30,
+      "nombre": "Maude Flanders",
+      "descripcion": "Esposa de Ned Flanders, devota cristiana y madre ejemplar de Rod y Todd.",
+      "origen": [
+        -1,
+        -6,
+        -7,
+        -17,
+        -22,
+        28,
+        -33,
+        36
+      ]
+    },
+    {
+      "id": 31,
+      "nombre": "Sherri Mackleberry",
+      "descripcion": "Es la hermana gemela de Terri Mackleberry. Terri Mackleberry es la mayor de las gemelas por dos segundos. Va a la misma clase que Bart Simpson en la Escuela Primaria de Springfield.",
+      "origen": [
+        -1,
+        6,
+        37,
+        38
+      ]
+    },
+    {
+      "id": 32,
+      "nombre": "Terri Mackleberry",
+      "descripcion": "Es la hermana gemela inseparable de Sherri. De pelo morado, junto con su hermana, compañeras de clase de Bart, famosas por hablar al unísono y burlarse de sus compañeros.",
+      "origen": [
+        -1,
+        6,
+        37,
+        -38
+      ]
+    },
+    {
+      "id": 33,
+      "nombre": "Jimbo Jones",
+      "descripcion": "Líder del grupo de matones de mayor edad, caracterizado por su gorro de lana morado y su actitud de rebelde juvenil.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        9,
+        -25,
+        -26,
+        39,
+        19,
+        40
+      ]
+    },
+    {
+      "id": 34,
+      "nombre": "Kearney Zzyzwicz",
+      "descripcion": "Matón escolar completamente calvo y de edad avanzada, tan mayor que ya es padre de un niño pequeño y conduce coche.",
+      "origen": [
+        1,
+        2,
+        -4,
+        -18,
+        -20,
+        -27,
+        -34,
+        41,
+        -16,
+        -21,
+        -23,
+        -35,
+        42,
+        -2,
+        -3,
+        -5,
+        9,
+        -25,
+        -26,
+        -39,
+        43
+      ]
+    },
+    {
+      "id": 35,
+      "nombre": "Dolph Starbeam",
+      "descripcion": "Matón del colegio caracterizado por su largo flequillo que le cubre un ojo.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        9,
+        -25,
+        -26,
+        -39,
+        -43,
+        -44
+      ]
+    }
+  ]
+}
