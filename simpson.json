@@ -23,29 +23,15 @@
     },
     {
       "id": 2,
-      "texto": "Le gusta la cerveza",
+      "texto": "va en monopatin",
       "si": [
+        3
+      ],
+      "no": [
         1
       ],
-      "no": [
-        3,
-        -3
-      ],
       "noSe": [
-        3
-      ]
-    },
-    {
-      "id": 3,
-      "texto": "Es un payaso",
-      "si": [
-        4
-      ],
-      "no": [
-        3
-      ],
-      "noSe": [
-        3
+        1
       ]
     }
   ],
@@ -56,7 +42,7 @@
       "descripcion": "Padre de la familia, aficionado a la cerveza Duff y a los donuts, conocido por su frase «¡D'oh!».",
       "origen": [
         1,
-        2
+        -2
       ]
     },
     {
@@ -73,18 +59,7 @@
       "descripcion": "",
       "origen": [
         1,
-        -2,
-        -3
-      ]
-    },
-    {
-      "id": 4,
-      "nombre": "Krusty",
-      "descripcion": "",
-      "origen": [
-        1,
-        -2,
-        3
+        2
       ]
     }
   ]
