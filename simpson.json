@@ -253,7 +253,8 @@
         18
       ],
       "no": [
-        6
+        6,
+        -20
       ],
       "noSe": [
         18
@@ -270,6 +271,19 @@
       ],
       "noSe": [
         19
+      ]
+    },
+    {
+      "id": 20,
+      "texto": "Trabaja en televisión.",
+      "si": [
+        20
+      ],
+      "no": [
+        6
+      ],
+      "noSe": [
+        6
       ]
     }
   ],
@@ -412,7 +426,8 @@
         -16,
         -10,
         -18,
-        5
+        5,
+        -20
       ]
     },
     {
@@ -678,6 +693,18 @@
         -5,
         9,
         -19
+      ]
+    },
+    {
+      "id": 20,
+      "nombre": "Kent Brockman",
+      "descripcion": "Presentador de las noticias del canal local, pretencioso y egocéntrico.",
+      "origen": [
+        1,
+        2,
+        -4,
+        -18,
+        20
       ]
     }
   ]
