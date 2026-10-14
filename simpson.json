@@ -241,7 +241,8 @@
         17
       ],
       "no": [
-        2
+        2,
+        -22
       ],
       "noSe": [
         2
@@ -299,6 +300,19 @@
       "noSe": [
         20
       ]
+    },
+    {
+      "id": 22,
+      "texto": "Trabaja en televisión.",
+      "si": [
+        21
+      ],
+      "no": [
+        2
+      ],
+      "noSe": [
+        21
+      ]
     }
   ],
   "respuestas": [
@@ -346,7 +360,8 @@
         -15,
         -16,
         -10,
-        -17
+        -17,
+        -22
       ]
     },
     {
@@ -722,6 +737,18 @@
         20,
         -16,
         21
+      ]
+    },
+    {
+      "id": 21,
+      "nombre": "Stephanie Brockman",
+      "descripcion": "Esposa de Kent Brockman y la encargada de dar la información meteorológica en los informativos del Canal 6 de Springfield.",
+      "origen": [
+        -1,
+        -6,
+        -7,
+        -17,
+        22
       ]
     }
   ]
