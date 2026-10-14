@@ -23,14 +23,16 @@
     },
     {
       "id": 2,
-      "texto": "Es alumno de la Escuela Primaria de Springfield.",
+      "texto": "Es alumno de la escuela primaria de springfield",
       "si": [
         3
       ],
       "no": [
         1
       ],
-      "noSe": [ 1 ]
+      "noSe": [
+        1
+      ]
     }
   ],
   "respuestas": [
