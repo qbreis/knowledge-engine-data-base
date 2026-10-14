@@ -11,7 +11,8 @@
       "id": 1,
       "texto": "Es de género masculino.",
       "si": [
-        1
+        1,
+        -2
       ],
       "no": [
         2
@@ -19,6 +20,17 @@
       "noSe": [
         1
       ]
+    },
+    {
+      "id": 2,
+      "texto": "Es alumno de la Escuela Primaria de Springfield.",
+      "si": [
+        3
+      ],
+      "no": [
+        1
+      ],
+      "noSe": []
     }
   ],
   "respuestas": [
@@ -27,7 +39,8 @@
       "nombre": "Homer Simpson",
       "descripcion": "Padre de la familia, aficionado a la cerveza Duff y a los donuts, conocido por su frase «¡D'oh!».",
       "origen": [
-        1
+        1,
+        -2
       ]
     },
     {
@@ -36,6 +49,15 @@
       "descripcion": "Matriarca de la familia, reconocida por su alto peinado azul y por ser la voz de la razón en el hogar.",
       "origen": [
         -1
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Bart Simpson",
+      "descripcion": "",
+      "origen": [
+        1,
+        2
       ]
     }
   ]
