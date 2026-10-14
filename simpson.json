@@ -372,7 +372,8 @@
         23
       ],
       "no": [
-        19
+        19,
+        -39
       ],
       "noSe": [
         23
@@ -538,6 +539,19 @@
       ],
       "noSe": [
         32
+      ]
+    },
+    {
+      "id": 39,
+      "texto": "Suele llevar un gorro de lana morado.",
+      "si": [
+        33
+      ],
+      "no": [
+        19
+      ],
+      "noSe": [
+        19
       ]
     }
   ],
@@ -964,7 +978,8 @@
         9,
         -19,
         -25,
-        -26
+        -26,
+        -39
       ]
     },
     {
@@ -1154,6 +1169,21 @@
         6,
         37,
         -38
+      ]
+    },
+    {
+      "id": 33,
+      "nombre": "Jimbo Jones",
+      "descripcion": "Líder del grupo de matones de mayor edad, caracterizado por su gorro de lana morado y su actitud de rebelde juvenil.",
+      "origen": [
+        1,
+        -2,
+        -3,
+        -5,
+        9,
+        -25,
+        -26,
+        39
       ]
     }
   ]
