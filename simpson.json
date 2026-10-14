@@ -28,6 +28,20 @@
         1
       ],
       "no": [
+        3,
+        -3
+      ],
+      "noSe": [
+        3
+      ]
+    },
+    {
+      "id": 3,
+      "texto": "Es un payaso",
+      "si": [
+        4
+      ],
+      "no": [
         3
       ],
       "noSe": [
@@ -59,7 +73,18 @@
       "descripcion": "",
       "origen": [
         1,
-        -2
+        -2,
+        -3
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Krusty",
+      "descripcion": "",
+      "origen": [
+        1,
+        -2,
+        3
       ]
     }
   ]
