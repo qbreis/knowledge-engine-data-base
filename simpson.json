@@ -517,13 +517,27 @@
       "id": 37,
       "texto": "Tiene una hermana gemela.",
       "si": [
-        31
+        31,
+        -38
       ],
       "no": [
         4
       ],
       "noSe": [
         31
+      ]
+    },
+    {
+      "id": 38,
+      "texto": "Es la gemela que suele tomar la iniciativa al hablar o burlarse primero.",
+      "si": [
+        31
+      ],
+      "no": [
+        32
+      ],
+      "noSe": [
+        32
       ]
     }
   ],
@@ -1127,7 +1141,19 @@
       "origen": [
         -1,
         6,
-        37
+        37,
+        38
+      ]
+    },
+    {
+      "id": 32,
+      "nombre": "Terri Mackleberry",
+      "descripcion": "Es la hermana gemela inseparable de Sherri. De pelo morado, junto con su hermana, compañeras de clase de Bart, famosas por hablar al unísono y burlarse de sus compañeros.",
+      "origen": [
+        -1,
+        6,
+        37,
+        -38
       ]
     }
   ]
