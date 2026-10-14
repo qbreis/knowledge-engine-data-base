@@ -86,7 +86,8 @@
       "id": 6,
       "texto": "Es alumna de la Escuela Primaria de Springfield.",
       "si": [
-        4
+        4,
+        -37
       ],
       "no": [
         2,
@@ -511,6 +512,19 @@
       "noSe": [
         30
       ]
+    },
+    {
+      "id": 37,
+      "texto": "Tiene una hermana gemela.",
+      "si": [
+        31
+      ],
+      "no": [
+        4
+      ],
+      "noSe": [
+        31
+      ]
     }
   ],
   "respuestas": [
@@ -612,7 +626,8 @@
         -14,
         -15,
         -16,
-        -10
+        -10,
+        -37
       ]
     },
     {
@@ -1103,6 +1118,16 @@
         28,
         -33,
         36
+      ]
+    },
+    {
+      "id": 31,
+      "nombre": "Sherri Mackleberry",
+      "descripcion": "Es la hermana gemela de Terri Mackleberry. Terri Mackleberry es la mayor de las gemelas por dos segundos. Va a la misma clase que Bart Simpson en la Escuela Primaria de Springfield.",
+      "origen": [
+        -1,
+        6,
+        37
       ]
     }
   ]
