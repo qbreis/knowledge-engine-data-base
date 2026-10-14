@@ -15,8 +15,7 @@
         -2
       ],
       "no": [
-        2,
-        -3
+        2
       ],
       "noSe": [
         1
@@ -33,19 +32,6 @@
       ],
       "noSe": [
         1
-      ]
-    },
-    {
-      "id": 3,
-      "texto": "Toca el saxofón.",
-      "si": [
-        4
-      ],
-      "no": [
-        2
-      ],
-      "noSe": [
-        4
       ]
     }
   ],
@@ -64,8 +50,7 @@
       "nombre": "Marge Simpson",
       "descripcion": "Matriarca de la familia, reconocida por su alto peinado azul y por ser la voz de la razón en el hogar.",
       "origen": [
-        -1,
-        -3
+        -1
       ]
     },
     {
@@ -75,15 +60,6 @@
       "origen": [
         1,
         2
-      ]
-    },
-    {
-      "id": 4,
-      "nombre": "Lisa Simpson",
-      "descripcion": "",
-      "origen": [
-        -1,
-        3
       ]
     }
   ]
