@@ -18,7 +18,8 @@
         2
       ],
       "noSe": [
-        1, -2
+        1,
+        -2
       ]
     },
     {
@@ -32,7 +33,8 @@
         -3
       ],
       "noSe": [
-       1
+        1,
+        -4
       ]
     },
     {
@@ -47,6 +49,19 @@
       "noSe": [
         3
       ]
+    },
+    {
+      "id": 4,
+      "texto": "Va a la escuela primaria",
+      "si": [
+        4
+      ],
+      "no": [
+        1
+      ],
+      "noSe": [
+        1
+      ]
     }
   ],
   "respuestas": [
@@ -56,7 +71,8 @@
       "descripcion": "Padre de la familia, aficionado a la cerveza Duff y a los donuts, conocido por su frase «¡D'oh!».",
       "origen": [
         1,
-        2
+        2,
+        -4
       ]
     },
     {
@@ -84,7 +100,8 @@
       "origen": [
         1,
         -2,
-        3
+        3,
+        4
       ]
     }
   ]
