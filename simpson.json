@@ -72,7 +72,8 @@
       "origen": [
         1,
         2,
-        -4
+        -4,
+        -3
       ]
     },
     {
@@ -81,7 +82,9 @@
       "descripcion": "Matriarca de la familia, reconocida por su alto peinado azul y por ser la voz de la razón en el hogar.",
       "origen": [
         -1,
-        -2
+        -2,
+        -3,
+        -4
       ]
     },
     {
@@ -91,7 +94,8 @@
       "origen": [
         1,
         -2,
-        -3
+        -3,
+        4
       ]
     },
     {
