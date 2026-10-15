@@ -80,7 +80,8 @@
       "nombre": "Marge Simpson",
       "descripcion": "Matriarca de la familia, reconocida por su alto peinado azul y por ser la voz de la razón en el hogar.",
       "origen": [
-        -1
+        -1,
+        -2
       ]
     },
     {
