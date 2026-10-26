@@ -20,19 +20,6 @@
       "noSe": [
         1
       ]
-    },
-    {
-      "id": 2,
-      "texto": "Cerveza",
-      "si": [
-        3
-      ],
-      "no": [
-        1
-      ],
-      "noSe": [
-        1
-      ]
     }
   ],
   "respuestas": [
@@ -41,8 +28,7 @@
       "nombre": "Homer Simpson",
       "descripcion": "Padre de la familia, aficionado a la cerveza Duff y a los donuts, conocido por su frase «¡D'oh!».",
       "origen": [
-        1,
-        -2
+        1
       ]
     },
     {
@@ -52,15 +38,11 @@
       "origen": [
         -1
       ]
-    },
-    {
-      "id": 3,
-      "nombre": "Bart",
-      "descripcion": "",
-      "origen": [
-        1,
-        2
-      ]
     }
   ]
 }
+
+✅ Tarjeta @4 - Bart creada.
+✅ Tarjeta pregunta/declaración #3 creada.
+✅ Tarjeta pregunta/declaración #1 actualizada para la respuesta "Sí".
+✅ Tarjeta @1 - Homer Simpson actualizadas preguntas relacionadas.
