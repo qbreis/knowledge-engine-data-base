@@ -11,8 +11,7 @@
       "id": 1,
       "texto": "Es de género masculino.",
       "si": [
-        1,
-        -2
+        1
       ],
       "no": [
         2
