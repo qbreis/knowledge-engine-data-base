@@ -29,6 +29,21 @@
         1
       ],
       "no": [
+        3,
+        -3
+      ],
+      "noSe": [
+        3,
+        -3
+      ]
+    },
+    {
+      "id": 3,
+      "texto": "lleva gafas",
+      "si": [
+        4
+      ],
+      "no": [
         3
       ],
       "noSe": [
@@ -60,7 +75,18 @@
       "descripcion": "",
       "origen": [
         1,
-        -2
+        -2,
+        -3
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "milhouse",
+      "descripcion": "",
+      "origen": [
+        1,
+        -2,
+        3
       ]
     }
   ]
