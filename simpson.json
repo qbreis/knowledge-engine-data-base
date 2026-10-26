@@ -27,8 +27,7 @@
       "nombre": "Homer Simpson",
       "descripcion": "Padre de la familia, aficionado a la cerveza Duff y a los donuts, conocido por su frase «¡D'oh!».",
       "origen": [
-        1,
-        2
+        1
       ]
     },
     {
@@ -36,8 +35,7 @@
       "nombre": "Marge Simpson",
       "descripcion": "Matriarca de la familia, reconocida por su alto peinado azul y por ser la voz de la razón en el hogar.",
       "origen": [
-        -1,
-        -2
+        -1
       ]
     }
   ]
