@@ -11,53 +11,10 @@
       "id": 1,
       "texto": "Es de género masculino.",
       "si": [
-        1,
-        -2
+        1
       ],
       "no": [
         2
-      ],
-      "noSe": [
-        1,
-        -2
-      ]
-    },
-    {
-      "id": 2,
-      "texto": "Le gusta la cerveza.",
-      "si": [
-        1
-      ],
-      "no": [
-        3,
-        -3
-      ],
-      "noSe": [
-        1,
-        -4
-      ]
-    },
-    {
-      "id": 3,
-      "texto": "Usa gafas",
-      "si": [
-        4
-      ],
-      "no": [
-        3
-      ],
-      "noSe": [
-        3
-      ]
-    },
-    {
-      "id": 4,
-      "texto": "Va a la escuela primaria",
-      "si": [
-        4
-      ],
-      "no": [
-        1
       ],
       "noSe": [
         1
@@ -71,9 +28,7 @@
       "descripcion": "Padre de la familia, aficionado a la cerveza Duff y a los donuts, conocido por su frase «¡D'oh!».",
       "origen": [
         1,
-        2,
-        -4,
-        -3
+        2
       ]
     },
     {
@@ -82,31 +37,7 @@
       "descripcion": "Matriarca de la familia, reconocida por su alto peinado azul y por ser la voz de la razón en el hogar.",
       "origen": [
         -1,
-        -2,
-        -3,
-        -4
-      ]
-    },
-    {
-      "id": 3,
-      "nombre": "Bart",
-      "descripcion": "",
-      "origen": [
-        1,
-        -2,
-        -3,
-        4
-      ]
-    },
-    {
-      "id": 4,
-      "nombre": "Milhouse",
-      "descripcion": "",
-      "origen": [
-        1,
-        -2,
-        3,
-        4
+        -2
       ]
     }
   ]
